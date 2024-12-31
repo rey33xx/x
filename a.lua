@@ -135,4 +135,3 @@ end
 setupListeners()
 
 -- To stop notifications manually, call `stopSendingNotifications()` from anywhere in your code.
-n xcbfdsfg
